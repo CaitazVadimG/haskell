@@ -1,1 +1,3 @@
 real-world-haskell.pdf
+*.hi
+*.o
