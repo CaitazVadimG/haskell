@@ -4,3 +4,5 @@ nats = [0..]
 main = do
     print result
     print( take 10 nats )
+    print( take 0 nats )
+    print( take 100 nats )
