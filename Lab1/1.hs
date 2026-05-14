@@ -6,3 +6,5 @@ main = do
     print( take 10 nats )
     print( take 0 nats )
     print( take 100 nats )
+    print( take 1000 nats )
+    print( take 1 nats )
